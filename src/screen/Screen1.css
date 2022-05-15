@@ -1,0 +1,16 @@
+.screen1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+}
+
+.title {
+  font-size: 4vw;
+  text-transform: uppercase;
+  color: maroon;
+}
+
+.landingImg {
+  height: 50vh;
+}
